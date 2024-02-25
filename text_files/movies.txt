@@ -1,0 +1,11 @@
+0/Inception/Science Fiction, Action/148/Christopher Nolan/Leonardo DiCaprio/USA/2010
+1/Titanic/Romance, Drama/195/James Cameron/Leonardo DiCaprio, Kate Winslet/USA/1997
+2/Jurassic Park/Science Fiction, Adventure/127/Steven Spielberg/Sam Neill, Laura Dern/USA/1993
+3/Avatar/Science Fiction, Action/162/James Cameron/Sam Worthington, Zoe Saldana/USA/2009
+4/Gladiator/Action, Drama/155/Ridley Scott/Russell Crowe, Joaquin Phoenix/USA/2000
+5/The Green Mile/Crime, Drama, Fantasy/189/Frank Darabont/Tom Hanks, Michael Clarke Duncan/USA/1999
+6/Casablanca/Drama, Romance, War/102/Michael Curtiz/Humphrey Bogart, Ingrid Bergman/USA/1942
+7/Schindler's List/Biography, Drama, History/195/Steven Spielberg/Liam Neeson, Ben Kingsley/USA/1993
+8/Pulp Fiction/Crime, Drama/154/Quentin Tarantino/John Travolta, Uma Thurman/USA/1994
+9/The Godfather/Crime, Drama/175/Francis Ford Coppola/Marlon Brando, Al Pacino/USA/1972
+10/The Matrix/Science Fiction, Action/136/Lana Wachowski, Lilly Wachowski/Keanu Reeves/USA/1999

@@ -1,0 +1,2 @@
+A1/hall_A1/4/A,B,C,D,E,F
+B1/hall_B1/4/A,B,C,D,E,F

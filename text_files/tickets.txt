@@ -1,0 +1,15 @@
+18/rale/radomir butulija/krsto butulija/1002BD/0A/09-02-2024/450/sold
+19/sake/Slavko sanjevic/krsto butulija/1006BD/0C/09-02-2024/330/sold
+21//Bobby Smhurda/krsto butulija/1003BN/0A/09-02-2024/600/sold
+23/bane/bogdan bogdanovic/krsto butulija/1002BD/0C/09-02-2024/450/sold
+24/sake/Slavko sanjevic/luka bokic/1002BD/1A/09-02-2024/450/sold
+25/rale/radomir butulija/luka bokic/1006BD/1A/09-02-2023/330/sold
+26/sake/Slavko sanjevic/luka bokic/1002BD/1B/09-02-2024/450/sold
+27/bane/bogdan bogdanovic/luka bokic/1002BD/1C/09-02-2024/450/sold
+40/redzo/Slavenko Redzo/jovan butulija/1003BN/0B/10-02-2024/650/sold
+41/bane/bogdan bogdanovic/jovan butulija/1003BN/1A/10-02-2024/650/sold
+44/rale/radomir butulija/luka bokic/1003BM/0B/10-02-2024/650/sold
+45//Milos Obrenovic/luka bokic/1001BF/0B/10-02-2024/550/sold
+46/sake/Slavko sanjevic/krsto butulija/1003CK/0A/10-02-2024/650/sold
+47/sake/Slavko sanjevic/krsto butulija/1008CD/0A/10-02-2024/750/sold
+48/sake/Slavko sanjevic//1001BF/0A/10-02-2024/550/reserved

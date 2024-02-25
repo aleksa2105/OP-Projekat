@@ -1,0 +1,14 @@
+aleksa/aleksa123/aleksa/curcic/manager
+sake/sake123/Slavko/sanjevic/customer
+stefo/stefo123/stefan/kralj/customer
+momir/momir123/miomir/dujanovic/customer
+jodza/jodza123/jovan/butulija/seller
+boke/boke123/luka/bokic/seller
+kroso/kroso123/krsto/butulija/seller
+rale/rale123/radomir/butulija/customer
+maka/maka123/marko/markovic/customer
+musi/musi123/filip/mulina/customer
+bane/bane123/bogdan/bogdanovic/customer
+zoki/zoki123/Zoran/Miladinovic/customer
+tejt/tejt123/Budzet/Tate/manager
+redzo/redzo123/Slavenko/Redzo/customer
