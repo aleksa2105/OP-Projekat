@@ -5,8 +5,6 @@ def entry_message():
         -------------------------------------------""")
 
 
-# TODO organize messages in categories
-
 # ~~~~~~~~~~~~~~~~~~ TICKET_FUNCTIONS_MESSAGES ~~~~~~~~~~~~~~~~~~~~
 def ticket_reservation_message():
     print("""
